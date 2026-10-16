@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044119847106",
+    "project_id": "yongg-5963f",
+    "storage_bucket": "yongg-5963f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044119847106:android:588a21354c343613f37b5b",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan4pemob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2vZ-qyP2IaVPIYHyg4e5eeE9AKRCiqG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
